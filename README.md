@@ -29,7 +29,7 @@ In the docker section I add the image and tag
 
 
 
-In the application settins, I assign the value '5000' to WEBSITE_PORT
+In the application settings, I assign the value '5000' to WEBSITE_PORT
 
 
 ![Alt Text](AZURE4.jpg.png)
