@@ -30,7 +30,7 @@ In the application settins, I assign the value '5000' to WEBSITE_PORT
 
 ![Alt Text](AZURE4.jpg.png)
 
-
+3) ## Hosting the Site
 The site has been successfully hosted
 
 
